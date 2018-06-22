@@ -1,0 +1,12 @@
+CODIGO ------------- : 120
+NOME --------------- : lucas
+DATA DE NASCIMENTO - : 22/09/2005
+CPF ---------------- : 150
+ENDERECO ----------- : rua arius,289
+
+CODIGO ------------- : 101
+NOME --------------- : felipe procopio
+DATA DE NASCIMENTO - : 25/06/2001
+CPF ---------------- : 120
+ENDERECO ----------- : rua arius,379
+
