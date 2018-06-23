@@ -1,0 +1,6 @@
+CODIGO ------------- : 123
+NOME --------------- : joao vitor
+DATA DE NASCIMENTO - : 22/03/1999
+CPF ---------------- : 1252503694
+ENDERECO ----------- : rua arius
+

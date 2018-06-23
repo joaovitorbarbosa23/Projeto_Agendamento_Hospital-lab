@@ -1,0 +1,6 @@
+
+
+CODIGO ------------- : 1234
+NOME --------------- : djalma
+CURSO ----------- : fisioterapia
+

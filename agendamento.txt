@@ -1,0 +1,5 @@
+CODIGO DO AGENDAMENTO ------------- : 100
+NOME DO PACIENTE / CODIGO --------------- : gustavo / 24
+AREA DO ATENDIMENTO ---------------- : 4124124
+DATA DA CONSULTA ----------- : 214124
+

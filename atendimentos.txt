@@ -1,0 +1,10 @@
+CODIGO DO ATENDIMENTO ------------- : 1
+CODIGO DO AGENDAMENTO ------------- : 2323
+DATA DO AGENDAMENTO ----------- : 2232
+
+NOME DO ALUNO/ CODIGO --------------- : 221 / 22
+NOME DO PACIENTE / CODIGO --------------- : joao / 21312
+NOME DO SUPERVISOR / CODIGO --------------- : 2212 / 2121
+DATA DO ATENDIMENTO ----------- : 22132
+
+AREA DO ATENDIMENTO ---------------- : 23213

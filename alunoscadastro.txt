@@ -1,0 +1,5 @@
+MATRICULA ------------- : 1234
+NOME --------------- : gabriel
+CPF ---------------- : 12345
+CURSO ----------- : psicologia
+
